@@ -20,3 +20,10 @@ So in this project, I engineered and analyzed a dataset of over 185,000+ rows of
 * **Top Performing Market:** in San Francisco leads the total sales by a massive margin, exceeding $8.2 Million.
 * **High-Value Budget Shoppers:** Identified a specific segment of customers buying "Standard" products in bulk, generating over $38,000 in unexpected high-value orders. And also San Francisco taking the lead here for over $9.900
 * **Advertising Strategy (Peak Hours):** Evening sales (4 PM - 9 PM) peak significantly during December ($1.7M) and October ($1.4M), indicating the optimal months to increase ad spend, while September shows a sharp drop, requiring a revised strategy.
+## 📂 Repository Structure
+* `Raw_Data/`: Contains the 12 original, uncleaned CSV files.
+* `E-Commerce_Sales_Dashboard.xlsx`: The final interactive Excel file (contains Power Query, Data Model, and Dashboard).
+* `Dashboard_View.png`: A quick snapshot of the final dashboard.
+
+## 📊 Final Dashboard Preview
+![Dashboard View](Dashboard_View.png)
